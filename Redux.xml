@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Redux</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>xahkarias.evolvedorgansredux</li>
+		<li>akreedz346.antiairartillerycontinued</li>
+		<li>dimonsever000.rimcore.specific</li>
+		<li>dimonsever000.prosthesesplus.specific</li>
+		<li>horo.mechaniteforge.11</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>dubwise.rimefeller</li>
+		<li>spdskatr.projectrimfactory</li>
+		<li>smashphil.neceros.srtsexpanded</li>
+		<li>sarg.alphaanimals</li>
+		<li>sarg.geneticrim</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>vanillaexpanded.vweg</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>vanillaexpanded.vfepower</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>vanillaexpanded.vwel</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>vanillaexpanded.vee</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>vanillaexpanded.vweq</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>roolo.whatthehack</li>
+		<li>spoonshortage.adogsaidanimalprosthetics</li>
+		<li>spino.megafauna</li>
+		<li>torann.rimwar</li>
+		<li>arandomkiwi194.androidhtierssshexpansion</li>
+		<li>jecrell.doorsexpanded</li>
+		<li>sickboywi.vault.onepointone</li>
+		<li>avius.locksdoorsexpanded</li>
+		<li>rimsenal.feral</li>
+		<li>rimsenal.federation</li>
+		<li>rimsenal.evp</li>
+		<li>rimsenal.core</li>
+		<li>abraxas.mserevived</li>
+		<li>edb.preparecarefully</li>
+		<li>mlie.mechaniteaugmentation</li>
+		<li>sarg.geneticrimdinosauria</li>
+		<li>spincrus.dinosauria</li>
+		<li>sarg.geneticrimmegafauna</li>
+		<li>sarg.geneticrimalphaanimals</li>
+		<li>sarg.geneticrimrimbees</li>
+		<li>sarg.rimbees</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>atlas.androidtiers</li>
+		<li>spincrus183.dinosauriahuhpatchhforhahdoghsaidvvv</li>
+		<li>spino375.megafaunahuhahdoghsaidhpatch</li>
+		<li>vasuhmaheshhpcoldtoadq875.centralizedhclimatehcontrol</li>
+		<li>vintagefruitcake.sparklingworldsce</li>
+		<li>dismarzero.vgp.vgpgardendrinks</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>albion.sparklingworlds.full</li>
+		<li>jon.revivals.prostheticcombatframework</li>
+		<li>abraxas.mserevived.prostheticcombat</li>
+		<li>k.glitternet</li>
+		<li>k.cybernet</li>
+		<li>ceteam.combatextended</li>
+		<li>dismarzero.vgp.vgpvegetablegarden</li>
+		<li>dismarzero.vgp.vgpgardengourmet</li>
+		<li>dismarzero.vgp.vgpgardenfabrics</li>
+		<li>dismarzero.vgp.vgpgardenmedicine</li>
+		<li>dismarzero.vgp.vgpgardenresources</li>
+		<li>dismarzero.vgp.vgpgardentools</li>
+		<li>dismarzero.vgp.vgpmoreveggies</li>
+		<li>dismarzero.vgp.xtratreesandflowers</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>tammybee.statueofcolonist</li>
+		<li>weilbyte.snapout</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>sarg.smartspeed</li>
+		<li>gguake.ui.simplesearchbar</li>
+		<li>targhetti.showdrafteesweapon</li>
+		<li>rimsenal.hair</li>
+		<li>jaxe.rimhud</li>
+		<li>dubwise.rimatomics</li>
+		<li>uuugggg.replacestuff</li>
+		<li>notfood.mendandrecycle</li>
+		<li>jaxe.bubbles</li>
+		<li>machine.betterinfestations</li>
+		<li>harkon.gunnut.chapter2</li>
+		<li>harkon.gunnut.chapter1</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>jm.bettertraders</li>
+		<li>razor2.3.anotherrimworldmod.autocutblight</li>
+		<li>vanillaexpanded.vfepropsanddecor</li>
+		<li>co.uk.epicguru.antimatterannihilation</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vplantsesucculents</li>
+		<li>vanillaexpanded.vhe.beards</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>vse.igorinvader</li>
+		<li>captinjoehenry.frontiershields</li>
+		<li>neronix17.embrasures</li>
+		<li>archaon.srts</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>mlie.rimquest</li>
+		<li>radzerp.neorimnauts</li>
+		<li>vanillaexpanded.vanillatraitsexpanded</li>
+		<li>sumghai.medpod</li>
+		<li>strex1234137.vaulthuhlwmoshdeephstoragehextension</li>
+		<li>mlie.pickupandhaul</li>
+		<li>lwm.deepstorage</li>
+		<li>ogre.ogrestack</li>
+		<li>fluffy.colonymanager</li>
+		<li>vanillaexpanded.vtexgr</li>
+		<li>fluffy.modmanager</li>
+		<li>rupal.rimpymodmanagerdatabase</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>EvolvedOrgansRedux</li>
+		<li>Anti-Air Artillery [Unofficial Update]</li>
+		<li>RimCore</li>
+		<li>Prostheses+</li>
+		<li>Mechanite Forge</li>
+		<li>HugsLib</li>
+		<li>Rimefeller</li>
+		<li>Project RimFactory Revived</li>
+		<li>SRTS Expanded</li>
+		<li>Alpha Animals</li>
+		<li>Genetic Rim</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Vanilla Furniture Expanded - Power</li>
+		<li>Vanilla Furniture Expanded - Spacer Module</li>
+		<li>Vanilla Weapons Expanded - Laser</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Weapons Expanded - Quickdraw</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>What the hack?!</li>
+		<li>A Dog Said... Animal Prosthetics</li>
+		<li>Megafauna</li>
+		<li>Rim War</li>
+		<li>Android Tiers++ Expansion</li>
+		<li>Doors Expanded</li>
+		<li>Vault</li>
+		<li>Locks (DoorsExpanded)</li>
+		<li>Rimsenal - Feral Faction Pack</li>
+		<li>Rimsenal - Federation Faction Pack</li>
+		<li>Rimsenal - Enhanced Vanilla Pack</li>
+		<li>Rimsenal - Core</li>
+		<li>Medical System Expansion - Revived</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Mechanite Augmentation (Continued)</li>
+		<li>GeneticRim Dinosauria Patch</li>
+		<li>Dinosauria</li>
+		<li>GeneticRim Megafauna Patch</li>
+		<li>GeneticRim Alpha Animals Patch</li>
+		<li>RimBees - Genetic Rim Patch</li>
+		<li>RimBees</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>Android tiers</li>
+		<li>Dinosauria - Patch for A Dog Said...</li>
+		<li>Megafauna - A Dog Said Patch</li>
+		<li>Centralized Climate Control</li>
+		<li>Sparkling Worlds CE Patch [1.1]</li>
+		<li>VGP Garden Drinks</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Sparkling Worlds - Full Mod</li>
+		<li>Prosthetic Combat Framework</li>
+		<li>MSE - Prosthetic Combat - Revived</li>
+		<li>GlitterNet</li>
+		<li>CyberNet</li>
+		<li>Combat Extended</li>
+		<li>VGP Vegetable Garden</li>
+		<li>VGP Garden Gourmet</li>
+		<li>VGP Garden Fabrics</li>
+		<li>VGP Garden Medicine</li>
+		<li>VGP Garden Resources</li>
+		<li>VGP Garden Tools</li>
+		<li>VGP More Veggies</li>
+		<li>VGP Xtra Trees and Flowers</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Statue of Colonist</li>
+		<li>Snap Out!</li>
+		<li>Smarter Construction</li>
+		<li>Smart Speed</li>
+		<li>Simple Search Bar</li>
+		<li>Show Draftees Weapon</li>
+		<li>Rimsenal - Rimhair</li>
+		<li>RimHUD</li>
+		<li>Rimatomics</li>
+		<li>Replace Stuff</li>
+		<li>MendAndRecycle</li>
+		<li>Interaction Bubbles</li>
+		<li>Better Infestations 1.2</li>
+		<li>Gun Nut - Chapter #2</li>
+		<li>Gun Nut - Chapter #1</li>
+		<li>Dubs Mint Menus</li>
+		<li>Better Traders</li>
+		<li>Auto-Cut Blight</li>
+		<li>Vanilla Furniture Expanded - Props and Decor</li>
+		<li>Antimatter Annihilation</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Plants Expanded - Succulents</li>
+		<li>Vanilla Hair Expanded - Beards</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>Vanilla Storytellers Expanded - Igor Invader</li>
+		<li>Shield Generators by Frontier Developments</li>
+		<li>[O21] Seamless Embrasures</li>
+		<li>Legiones Astartes: SRTS texture</li>
+		<li>Vanilla Brewing Expanded</li>
+		<li>RimQuest (Continued)</li>
+		<li>RimNauts</li>
+		<li>Vanilla Traits Expanded</li>
+		<li>MedPod</li>
+		<li>Vault - LWM's Deep Storage Extension</li>
+		<li>Pick Up And Haul (Continued)</li>
+		<li>LWM's Deep Storage</li>
+		<li>OgreStack</li>
+		<li>Colony Manager</li>
+		<li>Vanilla Textures Expanded - Genetic Rim</li>
+		<li>Mod Manager</li>
+		<li>RimPy Mod Manager Database</li>
+	</modNames>
+</ModList>
